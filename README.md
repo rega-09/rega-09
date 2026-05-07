@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**rega-09/rega-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Rahul Kumar
 
-Here are some ideas to get you started:
+🚀 B.Tech Student | AI/ML Enthusiast | Flask Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Working on LLM & AI Projects
+- 🌱 Learning Data Science & Backend Engineering
+- 💡 Interested in Machine Learning and Intelligent Systems
+- ⚡ Building projects with Python & Flask
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Machine Learning](https://img.shields.io/badge/ML-orange?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
